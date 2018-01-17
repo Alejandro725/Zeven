@@ -1,0 +1,24 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.login_header
+{
+    height: 40px;
+    padding: 10px;
+}
+
+body
+{
+    padding-left: 300px;
+}
+
+@media only screen and (max-width : 992px) 
+{
+    body 
+    {
+        padding-left: 0;
+    }
+}
